@@ -1,4 +1,3 @@
-
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -52,11 +51,21 @@
     a:hover {
       text-decoration: underline;
     }
+    .version {
+      background-color: #ffcc00;
+      color: #000;
+      font-weight: bold;
+      padding: 5px 10px;
+      border-radius: 8px;
+      display: inline-block;
+      margin-bottom: 15px;
+    }
   </style>
 </head>
 <body>
   <div class="container">
     <h1>🎮🔥 RESOURCE PACK BARU RILIS! TAMBAH SERU & KEREN DI SERVER KITA!</h1>
+    <div class="version"> Versi Beta 1.0</div>
     <p>Halo, para petualang Minecraft! 👋</p>
     <p>Ada kabar seru nih! Sekarang server kita punya <strong>penambahan Resource Pack terbaru</strong> yang bikin pengalaman bermain makin keren dan seru! 💥</p>
     <ul>
@@ -72,7 +81,29 @@
     <p><em>Pastikan kamu mengaktifkan Resource Pack saat login ke server ya, supaya semua fitur bisa terlihat maksimal!</em></p>
     <div class="footer">
       <p>— <strong>Yohnzz Corporation</strong></p>
-      <p>📱 Follow kami di Instagram: <a href="https://instagram.com/ann.moon" target="_blank">@ann.moon</a></p>
+      <p>📱 Follow kami di Instagram: <a href="https://www.instagram.com/brizkyv2/?utm_source=ig_web_button_share_sheet" target="_blank">@brizkyv2</a></p>
+    </div>
+  </div>
+
+  <div class="container">
+    <h1>🎮🔥 RESOURCE PACK BARU RILIS! TAMBAH SERU & KEREN DI SERVER KITA!</h1>
+    <div class="version"> Versi Beta 2.0</div>
+    <p>Halo, para petualang Minecraft! 👋</p>
+    <p>Ada kabar seru nih! Sekarang server kita punya <strong>penambahan Resource Pack terbaru</strong> yang bikin pengalaman bermain makin keren dan seru! 💥</p>
+    <ul>
+      <!-- <li><strong>🪨 Ore Menyala</strong> – Ore sekarang bisa <strong>bercahaya</strong>!</li>
+      <li><strong>🌈 Exp Pelangi</strong> – Bar exp tampil <strong>berwarna-warni dan estetik</strong>!</li>
+      <li><strong>🔧 Tools 3D</strong> – Peralatan tampil <strong>realistis dengan model 3D</strong>!</li>
+      <li><strong>🛏️ Bed Customize</strong> – Tempat tidur bisa <strong>diubah tampilannya</strong>!</li>
+      <li><strong>🛡️ Armor Modify</strong> – Armor bisa <strong>dimodifikasi tampilannya</strong>!</li>
+      <li><strong>🌌 Beautiful Sky</strong> – Langit Minecraft jadi <strong>lebih cantik</strong>!</li>
+      <li><strong>🏮 Better Lanterns</strong> – Lentera punya <strong>pencahayaan indah</strong>!</li>
+      <li><strong>🔥 Torch Better</strong> – Obor tampil <strong>lebih terang dan realistis</strong>!</li> -->
+    </ul>
+    <p><em>Pastikan kamu mengaktifkan Resource Pack saat login ke server ya, supaya semua fitur bisa terlihat maksimal!</em></p>
+    <div class="footer">
+      <p>— <strong>Yohnzz Corporation</strong></p>
+      <p>📱 Follow kami di Instagram: <a href="https://www.instagram.com/brizkyv2/?utm_source=ig_web_button_share_sheet" target="_blank">@brizkyv2</a></p>
     </div>
   </div>
 </body>
